@@ -20,3 +20,11 @@ Can be initialized like names = ['Gabriel', 'IBM', 'Corinthians', 'CAT']
 
 1. Mutable
 2. Usually(not necessary) all elements are of the same type
+
+## Sets
+
+Can be initialized like basket = {'apple', 'orange', 'apple', 'pear', 'orange', 'banana'} or using set('alacazam')
+Operations remembers the Set theory from math.
+
+1. Eliminate all duplicates
+2. Unordered
