@@ -28,3 +28,13 @@ Operations remembers the Set theory from math.
 
 1. Eliminate all duplicates
 2. Unordered
+
+## Dictionaries
+
+Can be initialized like tel = {'jack': 4098, 'sape': 4139} or dict(sape=4139, guido=4127, jack=4098)
+
+1. Key-Value
+2. Indexed by keys
+3. Keys can be any immutable type: strigs, numbers or tuples (if the tuple only contains strings, numbers and tuples).
+4. Keys are unique
+5. If you store using a key that is already in use, the old value associated with that key is forgotten.

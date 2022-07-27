@@ -71,3 +71,19 @@ print(f'check letters in a but not in b? a - b { a - b}')
 print(f'check letters in a or  b or both? a | b { a | b}')
 print(f'check letters both in a and b? a & b { a & b}')
 print(f'check letters in a or b but not both? a ^ b { a ^ b}')
+
+print()
+print()
+
+print('Starting with DICTIONARIES!!!')
+tel = {'jack': 4098, 'sape': 4139}
+print(f"Dictionary example is: tel = {tel}")
+tel["guido"] = 4127
+print(f'Add new key-value? tel["guido"] = 4127. {tel}')
+del tel["sape"]
+print(f'delete key-value? del tel["sape"]. {tel}')
+print(f'return all keys from a dic: list(tel). {list(tel)}')
+print(f'return all keys sorted from a dic: sorted(tel). {sorted(tel)}')
+print('Membership test')
+print(f"'guido' in tel: {'guido' in tel}")
+print(f"'jack' not in tel: {'guido' not in tel}")
