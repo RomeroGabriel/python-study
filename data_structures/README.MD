@@ -1,7 +1,9 @@
 # Data Structures
 
+Python documentation for more details: https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
 ## Tuples
-Can be initialized like t = 'AA', '2011-06-07', 100, 32.2 or t = ('AA', '2011-06-07', 100, 32.2)
+Can be initialized like fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
 
 1. Support unpacking
     * name, date, shares, price = t
@@ -11,3 +13,10 @@ Can be initialized like t = 'AA', '2011-06-07', 100, 32.2 or t = ('AA', '2011-06
     * u = t, (1, 2, 3, 4, 5)
 4. But can contain mutable objects
     * So the tuple can't change, however tuple's elements can
+
+
+## Lists
+Can be initialized like names = ['Gabriel', 'IBM', 'Corinthians', 'CAT']
+
+1. Mutable
+2. Usually(not necessary) all elements are of the same type
