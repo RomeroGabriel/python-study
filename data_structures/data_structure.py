@@ -1,6 +1,3 @@
-from audioop import reverse
-
-
 print('Starting with TUPLES!!!')
 print()
 t = 'AA', '2011-06-07', 100, 32.2

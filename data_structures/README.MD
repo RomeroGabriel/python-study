@@ -3,7 +3,7 @@
 Python documentation for more details: https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
 
 ## Tuples
-Can be initialized like fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
+Can be initialized like fruits = ('orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana')
 
 1. Support unpacking
     * name, date, shares, price = t
