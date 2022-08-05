@@ -39,7 +39,7 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [ ] Closures*
 - [ ] Regular Expressions
 - [ ] Iterators
-- [ ] Generators *
+- [ ] Generators*
 - [ ] Modules
   - [ ] Builtin
   - [ ] Custom
@@ -52,8 +52,8 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 ### Programming Technique
 
 - [ ] Asynchronous Programming
-- [ ] Concurrent Programming
-- [ ] Functional Programming
-- [ ] Multithreaded Programming
+- [ ] Concurrent Programming*
+- [ ] Functional Programming*
+- [ ] Multithreaded Programming*
 
 *Topics added by myself
