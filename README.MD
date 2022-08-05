@@ -10,7 +10,7 @@ As a topics guide, i will follow the Python's roadmap from this [link](https://r
 
 ## PROGRESS
 
-Disregarding general topic like Version Control Systems, Repo Hosting Services. Basic materials will not be added so as not to fill up with unnecessary things.
+Disregarding general topic like Version Control Systems, Repo Hosting Services. Basic materials will not be added so as not to fill up with unnecessary things. Also changing some topics, adding, editing or removing from original image.
 
 ### LEARN THE BASICS
 
@@ -34,7 +34,9 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 ### ADVANCED TOPICS
 
 - [X] Lambdas
+- [X] Higher Order Functions*
 - [ ] Decorators
+- [ ] Closures*
 - [ ] Regular Expressions
 - [ ] Iterators
 - [ ] Generators *
@@ -42,5 +44,16 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
   - [ ] Builtin
   - [ ] Custom
 - [ ] OPP
+  - [ ] Classes
+  - [ ] Inheritance
+  - [ ] Encapsulation*
+  - [ ] Polymorphism*
+
+### Programming Technique
+
+- [ ] Asynchronous Programming
+- [ ] Concurrent Programming
+- [ ] Functional Programming
+- [ ] Multithreaded Programming
 
 *Topics added by myself
