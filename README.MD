@@ -35,19 +35,22 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 
 - [X] Lambdas
 - [X] Higher Order Functions*
+- [X] With statement*
 - [ ] Decorators
-- [ ] Closures*
+- [X] Closures*
 - [ ] Regular Expressions
 - [ ] Iterators
 - [ ] Generators*
 - [ ] Modules
   - [ ] Builtin
   - [ ] Custom
-- [ ] OPP
-  - [ ] Classes
-  - [ ] Inheritance
-  - [ ] Encapsulation*
-  - [ ] Polymorphism*
+
+### OPP
+
+- [ ] Classes
+- [ ] Inheritance
+- [X] Encapsulation*
+- [ ] Polymorphism*
 
 ### Programming Technique
 
