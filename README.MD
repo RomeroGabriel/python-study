@@ -7,3 +7,8 @@ As a topics guide, i will follow the Python's roadmap from this [link](https://r
 ## ROADMAP IMAGE
 
 ![Python's roadmap image](https://github.com/RomeroGabriel/python-study/blob/main/python-roadmap.png "Python's roadmap image")
+
+## PROGRESS
+
+- [X] Test
+- [ ] Test2
