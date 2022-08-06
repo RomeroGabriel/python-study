@@ -30,6 +30,7 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [ ] Binary Search Tress
 - [ ] Recursion
 - [ ] Sorting Algorithms
+- [X] Sorting and grouping
 
 ### ADVANCED TOPICS
 
