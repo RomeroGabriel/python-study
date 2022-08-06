@@ -1,6 +1,6 @@
 from typing import Callable
 
-print('Start with DECORATOS!!!')
+print('Start with DECORATORS!!!')
 
 print('Add print (new behavior) to arithmetic functions')
 def logged(func: Callable):
