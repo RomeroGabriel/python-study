@@ -37,7 +37,7 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [X] Lambdas
 - [X] Higher Order Functions*
 - [X] With statement*
-- [ ] Decorators
+- [X] Decorators
 - [X] Closures*
 - [ ] Regular Expressions
 - [ ] Iterators
