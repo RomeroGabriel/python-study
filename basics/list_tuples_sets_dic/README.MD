@@ -3,6 +3,7 @@
 Python documentation for more details: https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
 
 ## Tuples
+
 Can be initialized like fruits = ('orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana')
 
 1. Support unpacking
@@ -14,8 +15,8 @@ Can be initialized like fruits = ('orange', 'apple', 'pear', 'banana', 'kiwi', '
 4. But can contain mutable objects
     * So the tuple can't change, however tuple's elements can
 
-
 ## Lists
+
 Can be initialized like names = ['Gabriel', 'IBM', 'Corinthians', 'CAT']
 
 1. Mutable
