@@ -36,7 +36,7 @@ Known as **Ternary Operators** or **Conditional Expressions**
 print("A") if a > b else print("B")
 ```
 
-### multiple else statements
+### Multiple else statements
 
 ```python
 print("A") if a > b else print("=") if a == b else print("B")
