@@ -48,6 +48,11 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [ ] Dataclasses
 - [ ] Packages and Modules
 
+### Package Managers
+
+- [ ] Pip
+- [ ] PyPi
+
 ### OPP
 
 - [ ] Classes
