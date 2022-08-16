@@ -1,6 +1,6 @@
 # Python Study
 
-A particular but not private repository to centralize all studies about Python and a few famous Python's libraries.
+A particular but not private repository to centralize all studies about Python and a few famous Python's libraries. It's kind my own documentation about the language.
 
 As a topics guide, i will follow the Python's roadmap from this [link](https://roadmap.sh/python). The structure folder will follow the image structure. All extra material will be added in other folders.
 
@@ -17,9 +17,10 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [X] Basic Syntax
 - [X] Variable and Data Types
 - [X] Conditionals
-- [ ] Type Casting, Exceptions
+- [X] Type Casting
+- [X] Exceptions
 - [X] Functions
-- [ ] Builtin Functions
+- [X] Builtin Functions
 - [X] List, Tuples, Sets, Dictionares
 
 ### DATA STRUCTURES AND ALGORITHMS
@@ -56,6 +57,7 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 ### OPP
 
 - [ ] Classes
+  - [ ] Data classes
 - [ ] Inheritance
 - [X] Encapsulation*
 - [ ] Polymorphism*
