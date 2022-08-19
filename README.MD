@@ -23,6 +23,19 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [X] Builtin Functions
 - [X] List, Tuples, Sets, Dictionares
 
+### ADVANCED TOPICS
+
+- [X] Packages and Modules
+  - [X] Builtin modules
+- [X] Lambdas
+- [X] With statement*
+- [X] Decorators
+- [X] Closures*
+- [ ] Regular Expressions
+- [ ] Iterators
+- [ ] Generators*
+- [ ] Dataclasses
+
 ### DATA STRUCTURES AND ALGORITHMS
 
 - [ ] Arrays and Linked List
@@ -32,22 +45,6 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [ ] Recursion
 - [ ] Sorting Algorithms
 - [X] Sorting and grouping
-
-### ADVANCED TOPICS
-
-- [X] Lambdas
-- [X] Higher Order Functions*
-- [X] With statement*
-- [X] Decorators
-- [X] Closures*
-- [ ] Regular Expressions
-- [ ] Iterators
-- [ ] Generators*
-- [ ] Modules
-  - [ ] Builtin
-  - [ ] Custom
-- [ ] Dataclasses
-- [ ] Packages and Modules
 
 ### Package Managers
 
