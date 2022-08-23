@@ -32,9 +32,10 @@ Disregarding general topic like Version Control Systems, Repo Hosting Services. 
 - [X] Decorators
 - [X] Closures*
 - [ ] Regular Expressions
-- [ ] Iterators
+- [X] Iterators
 - [ ] Generators*
 - [ ] Dataclasses
+- [ ] Itertools*
 
 ### DATA STRUCTURES AND ALGORITHMS
 
